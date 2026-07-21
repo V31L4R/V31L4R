@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**V31L4R/V31L4R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Egor. I'm a Data Engineer focused on building reliable data pipelines and integrations.
 
-Here are some ideas to get you started:
+- Hands-on experience building and maintaining ETL/ELT pipelines with Python and SQL.
+- Experience working with data ingestion, transformation, automation, and pipeline reliability.
+- Worked with large-scale media archives and automated metadata processing workflows.
+- Interested in modern data engineering architecture, tooling, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tech skills:
+
+🐍 **Programming:** Python
+
+🗄️ **Data & Databases:** SQL, PostgreSQL, SQLite, DuckDB
+
+⚙️ **Data Engineering:** ETL/ELT, Apache Airflow, dbt, Apache Kafka, Databricks, Data Pipelines, Data Integration
+
+🐳 **Infrastructure:** Docker, Linux, Bash, AWS
+
+🔧 **Tools:** Git, GitHub, Postman, Grafana, Jira, Confluence
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/egor-gorodetskii/)
