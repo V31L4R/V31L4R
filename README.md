@@ -9,6 +9,8 @@ My name is Egor. I'm a Data Engineer focused on building reliable data pipelines
 
 ## My tech skills:
 
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,sqlite,kafka,docker,aws,bash,git,grafana,postman)](https://skillicons.dev)
+
 🐍 **Programming:** Python
 
 🗄️ **Data & Databases:** SQL, PostgreSQL, SQLite, DuckDB
