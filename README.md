@@ -24,5 +24,5 @@ My name is Egor. I'm a Data Engineer focused on building reliable data pipelines
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/egor-gorodetskii/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="48">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" height="70">
 </a>
